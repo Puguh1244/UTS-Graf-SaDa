@@ -1,0 +1,16 @@
+# Dependensi yang tercantum dalam PDF UTS
+neo4j>=4.0,<4.3
+neo4j==4.2.1
+imdbpy==2020.9.25
+imdbpy>=2020.9.25
+nose==1.3.7
+cinemagoerng>=0.4
+imdbinfo>=0.5
+
+# Dependensi tambahan untuk filter data, VSM, similarity, dan visualisasi notebook
+pandas
+numpy
+scipy
+networkx
+matplotlib
+tqdm
